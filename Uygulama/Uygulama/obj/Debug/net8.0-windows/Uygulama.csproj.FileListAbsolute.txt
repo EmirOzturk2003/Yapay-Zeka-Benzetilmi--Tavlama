@@ -1,0 +1,56 @@
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.exe
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.deps.json
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.runtimeconfig.json
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.pdb
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.Form1.resources
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.GenerateResource.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfoInputs.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfo.cs
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.CoreCompileInputs.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\refint\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.pdb
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.genruntimeconfig.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\ref\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.AssemblyReference.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\04-Kod\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.CopyComplete
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.exe
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.deps.json
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.runtimeconfig.json
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.pdb
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.AssemblyReference.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.Form1.resources
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.GenerateResource.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfoInputs.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfo.cs
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.CoreCompileInputs.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.CopyComplete
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\refint\Uygulama.dll
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.pdb
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.genruntimeconfig.cache
+C:\Data\OneDrive - arel.edu.tr\Ders\99-Güncel\Yapay Zekaya Giriş\06-Sınav\Uygulama\Uygulama\obj\Debug\net8.0-windows\ref\Uygulama.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.exe
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.deps.json
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.runtimeconfig.json
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\Uygulama.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.Form1.resources
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfoInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.AssemblyInfo.cs
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.csproj.Up2Date
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\refint\Uygulama.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\Uygulama.genruntimeconfig.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yapay Zeka Ödev\Uygulama\Uygulama\obj\Debug\net8.0-windows\ref\Uygulama.dll

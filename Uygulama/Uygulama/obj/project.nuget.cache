@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HHbxzvIwCmkRyaQRRnvQA/NtbQkvCzN5D3hTtwXdQenV2iJKuP00/DkfYsj8umiVTZiKvAxuVJiitQz/A+vSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\Yapay Zeka Ödev\\Uygulama\\Uygulama\\Uygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oztur\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\oztur\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
